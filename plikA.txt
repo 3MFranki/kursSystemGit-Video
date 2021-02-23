@@ -1,3 +1,4 @@
 
 dodanie funkcjonalnosci A
 Zmiana w funkcjonalnosci A.
+Ala ma kota i rybki.
