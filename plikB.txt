@@ -1,1 +1,2 @@
 dodanie funkcjonalnsci B
+Zmiana dzialania funkcjonalnosci B
